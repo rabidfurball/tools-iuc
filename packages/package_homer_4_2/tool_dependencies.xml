@@ -12,7 +12,7 @@
     <package name="blat" version="35x1">
         <repository name="package_blat_35x1" owner="iuc" prior_installation_required="True" />
     </package>
-    <package name="homer" version="4.2">
+    <package name="homer" version="4.7.2">
         <install version="1.0">
             <actions>
                 <action type="download_by_url">http://homer.salk.edu/homer/data/software/homer.v4.7.2.zip</action>
